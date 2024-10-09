@@ -65,5 +65,4 @@ Links films to their respective categories.
 This schema is used to support business intelligence (BI) activities for Rockbuster Stealth LLC, helping the company analyze rentals, payments, customer activity, and other business metrics.
 
 ## Tools
-SQL Postgrade
-Tableau 
+SQL Postgrade , Tableau 
