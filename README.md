@@ -12,11 +12,9 @@ This repository contains the database schema for Rockbuster Stealth LLC, a movie
 ● What are Top 10 Largest customer base countries?
 ● What are Top 10 Cities with the Largest Customer Base in the Top 10 Countries?
 ● Who are the top 5 customers?
-● Where are customers with a high lifetime value based?
-● Who was the best Rockbuster`s Sales Personnel?
 
 ## Tools
-SQL Postgrade , Tableau 
+SQL Postgrade , Tableau, Powerpoint
 
 ## Visualization 
-Take a look at the [Tableau Workbook] (https://public.tableau.com/app/profile/julia.petke/viz/RockbusterStealthsbusiness2020BusinessStrategy/Top10Countriesbycustomernumbers))
+Take a look at the [Tableau Workbook] (https://public.tableau.com/app/profile/julia.petke/viz/RockbusterStealthsbusiness2020BusinessStrategy/Story1))
