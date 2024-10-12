@@ -10,7 +10,9 @@ This repository contains the database schema for Rockbuster Stealth LLC, a movie
 
 ## Key Questions
 ● What are Top 10 Largest customer base countries?
+
 ● What are Top 10 Cities with the Largest Customer Base in the Top 10 Countries?
+
 ● Who are the top 5 customers?
 
 ## Tools
