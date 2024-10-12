@@ -19,4 +19,4 @@ This repository contains the database schema for Rockbuster Stealth LLC, a movie
 SQL Postgrade , Tableau 
 
 ## Visualization 
-Take a look at the [Tableau Workbook]([url](https://public.tableau.com/app/profile/julia.petke/viz/RockbusterStealthsbusiness2020BusinessStrategy/Top10Countriesbycustomernumbers))
+Take a look at the [Tableau Workbook] (https://public.tableau.com/app/profile/julia.petke/viz/RockbusterStealthsbusiness2020BusinessStrategy/Top10Countriesbycustomernumbers))
